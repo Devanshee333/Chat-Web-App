@@ -1,4 +1,4 @@
-# Welcome to Chat_Application
+# Welcome to Chat Web App!
 
 ## [Example Website](https://chat-dtjs-333d056.netlify.app/)
 
