@@ -5,6 +5,6 @@
 
 ## Introduction
 
-This is a chat web app built with React JS and [Chat Engine](https://chatengine.io).
+This is a chat web app built with JavaScript and [Chat Engine](https://chatengine.io).
 
 The preferred development language is React JS, and Chat Engine is a set of APIs and UI Kit designed specifically for a chat.
